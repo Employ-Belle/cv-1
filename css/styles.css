@@ -1,0 +1,133 @@
+body {
+    margin:0;
+    text-align:center;
+    font-family: "Courgette", serif;
+}
+
+.Top-container{
+    background-color:#EAF6F6;
+    position:relative;
+    padding-top:100px;
+}
+
+hr{
+border-top:13px dotted #EAF6F6;
+width:10%;
+border-left:none;
+border-bottom:none;
+border-right:none;
+background-color:white;
+margin: 60px auto 60px auto;
+
+}
+
+
+h1{
+    font-size:5.625em;
+    margin:50px auto 0 auto;
+    font-family: 'Lemonada', cursive;
+    color:#66BFBF;
+    line-height:2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+    font-weight:normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E
+}
+
+p{
+    color:#40514E
+}
+
+.bottom-cloud{
+    position:absolute;
+    leftt: 30%;
+    top:29%
+}
+
+.top-cloud{
+    position:absolute;
+    right: 35%;
+    top:9%
+}
+
+.middle-container{
+}
+
+.bottom-container{
+    margin: 65px auto auto auto;
+    background-color:#66BFBF;
+    padding: 40px 0 40px 0;
+}
+.skill-row{
+    width:50%;
+    position:relative;
+    margin: 100px auto 100px auto;
+    text-align:left;
+    line-height:2;
+}
+
+.pro{
+    text-decoration:underline;}
+
+.python-image{
+float:left;
+margin-right:30px;
+}
+
+.finance-image{
+float:right;
+margin-left:30px;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.footer-link {
+margin: 0 30px 0 30px;
+color:#11999E;
+}
+
+a{
+color:#11999E;
+text-decoration: none;
+}
+
+a:visited{
+color:#11999E;}
+
+a:hover{
+color:blue;}
+
+.copyright{
+color:#EAF6F6;
+font-size:0.75rem;}
